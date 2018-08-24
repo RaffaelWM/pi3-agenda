@@ -57,6 +57,7 @@ public class Agenda {
             stmt.setInt(0, 5);
             stmt.setString(1, nome);
             stmt.setString(2, data);
+            System.out.println("a");
         } catch (ClassNotFoundException | SQLException ex) {
             Logger.getLogger(Agenda.class.getName()).log(Level.SEVERE, null, ex);
         }
