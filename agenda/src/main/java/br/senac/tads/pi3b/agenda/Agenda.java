@@ -54,10 +54,10 @@ public class Agenda {
         try (
                 Connection conn = obterConexao();
                 PreparedStatement stmt = conn.prepareStatement(querySql);) {
-            stmt.setInt(0, 5);
+            
             stmt.setString(1, nome);
             stmt.setString(2, data);
-            System.out.println("a");
+           
         } catch (ClassNotFoundException | SQLException ex) {
             Logger.getLogger(Agenda.class.getName()).log(Level.SEVERE, null, ex);
         }
