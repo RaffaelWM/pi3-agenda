@@ -13,6 +13,10 @@
             <id>raffaelw</id>
             <name>Raffael Wustemberg de Moraes</name>
         </developer>
+                <developer>
+            <id>rafaeld</id>
+            <name>rafael dini</name>
+        </developer>
             
     </developers>
     <properties>
