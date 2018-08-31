@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>br.senac.tads.pi3b</groupId>
-    <artifactId>agenda</artifactId>
+    <groupId>br.senac.tads.ado-1</groupId>
+    <artifactId>ADO-01</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <organization>
@@ -10,8 +10,24 @@
     </organization>
     <developers>
         <developer>
-            <id>raffaelw</id>
+            <id>Antonio</id>
+            <name>Antonio</name>
+        </developer>
+        <developer>
+            <id>Matheus F</id>
+            <name>Matheus F Borges</name>
+        </developer>
+        <developer>
+            <id>Rafael D</id>
+            <name>Rafael Dini</name>
+        </developer>
+        <developer>
+            <id>Raffael W</id>
             <name>Raffael Wustemberg de Moraes</name>
+        </developer>
+        <developer>
+            <id>Victor S</id>
+            <name>Victor Serafim</name>
         </developer>
             
     </developers>
